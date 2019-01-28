@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-16"?>
+<DocumentSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FindHistory>
+    <string>pwmduty</string>
+    <string>dir</string>
+    <string>set_pwm1</string>
+    <string>set_pwm2</string>
+  </FindHistory>
+  <ReplaceHistory>
+    <string>pwmout</string>
+    <string>servoDir</string>
+    <string>lpwm</string>
+    <string>rpwm</string>
+  </ReplaceHistory>
+  <ReplaceSearchHistory />
+  <Bookmarks />
+  <BreakPoints />
+  <SelectedLine>0</SelectedLine>
+  <SelectedColumn>0</SelectedColumn>
+  <CaretOffset>1222</CaretOffset>
+  <BottomVerticalSplitterPosition>0</BottomVerticalSplitterPosition>
+  <TopVerticalSplitterPosition>0</TopVerticalSplitterPosition>
+  <HorizontalSplitterPosition>0</HorizontalSplitterPosition>
+</DocumentSettings>
